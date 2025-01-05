@@ -1,4 +1,11 @@
 SBJ_2411_001
+*.zip
+*.docx
+*.pdf
+*.pptx
+*.csv
+*.png
+*.html
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
